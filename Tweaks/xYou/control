@@ -1,0 +1,14 @@
+Package: com.enokseth.xyou
+Name: xYou
+Depends: firmware (>=13.0), mobilesubstrate  
+Conflicts: com.miro.easyyt, com.miro.ytnoshorts, com.ps.noytpremium, com.ps.youarethere, com.miro.uyourootless
+Description: Enhance Your YouTube Experience too
+Maintainer: enokseth enokseth@protonmail.com
+Author: enokseth enokseth@protonmail.com
+Section: Tweaks
+Tag: purpose::extension, compatible_min::ios13
+Icon: file:////Library/Application Support/xYouBundle.bundle/icon_clipped.png
+Architecture: iphoneos-arm
+Version: 3.0.3
+
+# Depends : com.enokseth.xyouimport
